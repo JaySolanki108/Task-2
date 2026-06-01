@@ -1,27 +1,31 @@
-Phishing Email Analysis – Task 2
-Objective
+Task 2 – Phishing Email Identification
+Overview
 
-The objective of this task is to analyze a suspicious email and identify phishing characteristics using email content and header analysis.
+This repository contains the submission for Task 2 of the Cyber Security Internship. The task focuses on identifying phishing characteristics in a suspicious email using basic email analysis techniques.
+
+Purpose of the Task
+
+The purpose of this task is to understand how phishing emails can be identified by analyzing the email content and header information.
 
 Tools Used
-Sample phishing email (text file)
-Free online email header analyzer (such as MXToolbox)
-Files Included
+Sample phishing email in text format
+Free online email header analysis tool
+Repository Contents
 Task_2_Phishing_Email_Analysis.txt
-This file contains the phishing email sample and the list of phishing indicators identified during analysis.
+Contains the suspicious email sample and a description of phishing indicators found.
 Task2_Header_Overview.png
-Screenshot showing basic email header details.
+Screenshot showing the basic details of the email header.
 Task2_Header_Analysis_Result.png
-Screenshot showing the email header analysis results.
-Analysis Summary
+Screenshot showing the results from the email header analysis tool.
+Work Summary
 
-The email was analyzed to identify common phishing signs, including:
+The email was reviewed to identify common phishing signs such as:
 
-Use of a fake sender domain
-Urgent and threatening language
+Fake or misleading sender domain
+Urgent language requesting immediate action
 Generic greeting
-Unknown sending source
-Missing or failed email authentication checks (SPF, DKIM, DMARC)
-Conclusion
+Unknown email source
+Missing or failed email authentication checks
+Final Conclusion
 
-Based on the email content and header analysis, the email is identified as a phishing attempt. The indicators found confirm that the email was not sent from a legitimate source.
+After reviewing the email content and header information, the email was identified as a phishing attempt. The findings show that the email was not sent from a trusted or official source.
