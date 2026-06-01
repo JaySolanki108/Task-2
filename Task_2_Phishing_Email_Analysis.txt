@@ -1,0 +1,31 @@
+From: Microsoft Office 365 Support <admin@support-offices365-update.com>
+To: your.email@domain.com
+Subject: URGENT: Final Notice - Your Office 365 Account Will Be Suspended
+
+Dear User,
+
+This is an automated message from the Microsoft Office 365 Security Team.
+
+We have detected unusual sign-in activity associated with your Office 365 account.
+For your protection, access to your account will be temporarily limited unless you
+verify your identity immediately.
+
+Failure to verify within 24 hours will result in permanent suspension of your email,
+contacts, and stored files.
+
+Verify My Account Now
+
+Thank you,
+Microsoft 365 Security Team
+
+
+
+
+
+
+Phishing Indicators Identified
+1.The sender domain support-offices365-update.com does not belong to any official Microsoft domain and indicates a domain impersonation attempt.
+2.The email employs urgency and fear-inducing language, such as “URGENT” and “Final Notice”, to pressure the recipient into immediate action.
+3.Email header analysis reveals that the message originated from an unknown IP address, which is atypical for legitimate Microsoft communications.
+4.The absence or failure of standard email authentication mechanisms, including SPF, DKIM, and DMARC, suggests the email was not sent by an authorized source.
+5.The email uses a generic salutation (“Dear User”) instead of addressing the recipient by name, a common characteristic of phishing emails.
